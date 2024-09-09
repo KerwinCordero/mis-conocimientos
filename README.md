@@ -1,4 +1,4 @@
-# mis-conocimientos
+# mis-conocimiento
 Mi primer repo creado en github
 
 
